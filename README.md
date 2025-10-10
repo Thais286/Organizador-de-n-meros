@@ -1,0 +1,1 @@
+Organizador de números é um projeto desenvolvido no curso em vídeo  de JavaScript pelo professor Gustavo Guanabara.Nesse projeto foi usado HTML5,CSS3 e JS ,nesse projeto o usuário digitara um número , o número digitado ira aparecer no painel e no final vai mostrar o menor número inserido ,o maior e a soma deles.
